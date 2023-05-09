@@ -1,18 +1,28 @@
 :imagesdir: imgs
 
-= Grove-Led Socket for Fritzing
+= Grove- Items for Fritzing
 
 
-This repository contains the Fritzing part for the Grove LED Socket, which is an electronic module that can be used to connect LED lights to a Grove compatible interface. The part has been designed to enable users to quickly and easily add the Grove LED Socket to their electronic circuit designs in Fritzing.
+This repository contains the Fritzing part for the Grove LED Socket and for the Grove LCD Display 16x2.
+The first one is an electronic module that can be used to connect LED lights to a Grove compatible interface. 
+The part has been designed to enable users to quickly and easily add the Grove LED Socket to their electronic circuit designs in Fritzing.
 
-To use this part, simply download the Grove LED Socket Fritzing part from this repository, and then import it into your Fritzing parts library. You can then use the part to add the Grove LED Socket to your electronic circuit design in Fritzing.
+The second one is an LCD Display 16x2 module that can be used to show some informations. 
+The part has been designed to enable users to quickly and easily add the Grove LCD Display 16x2 to their electronic circuit designs in Fritzing.
+I found this item https://johnny-five.io/examples/grove-lcd-rgb-temperature-display/[here] but i resized it. 
 
-This part has been created to be as accurate and detailed as possible, based on the specifications of the Grove LED Socket. It includes pins, labels, and other important details that are necessary for creating electronic circuit designs that use this module.
+To use this part, simply download the Fritzing part you need from this repository, and then import it into your Fritzing parts library.
+You can then use the part to add the item to your electronic circuit design in Fritzing.
+
+This part has been created to be as accurate and detailed as possibl.
+Each item includes pins, labels, and other important details that are necessary for creating electronic circuit designs that use this module.
 
 If you encounter any issues while using this part, please feel free to report them in the issues section of this repository. Additionally, if you have any suggestions for improvements or additions to the part, we would love to hear from you.
 
-Thank you for using the Grove LED Socket Fritzing part!
+Thank you for using the Grove items for Fritzing part!
 
 == Screenshot
 
 image::GROVE- Led socket.png[align="center",Led Socket example]
+
+image::GROVE- GROVE-LCD Display 16x2.png[align="center",LCD Display 16x2 example]
