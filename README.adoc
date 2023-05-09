@@ -11,6 +11,10 @@ The second one is an LCD Display 16x2 module that can be used to show some infor
 The part has been designed to enable users to quickly and easily add the Grove LCD Display 16x2 to their electronic circuit designs in Fritzing.
 I found this item https://johnny-five.io/examples/grove-lcd-rgb-temperature-display/[here] but i resized it. 
 
+
+The third one is a Touch sensor module.
+The part has been designed to enable users to quickly and easily add the Grove Touch sensor to their electronic circuit designs in Fritzing.
+
 To use this part, simply download the Fritzing part you need from this repository, and then import it into your Fritzing parts library.
 You can then use the part to add the item to your electronic circuit design in Fritzing.
 
@@ -26,3 +30,5 @@ Thank you for using the Grove items for Fritzing part!
 image::GROVE- Led socket.png[align="center",Led Socket example]
 
 image::GROVE-LCD Display 16x2.png[align="center",LCD Display 16x2 example]
+
+image::GROVE- Touch sensor.png[align="center",LCD Touch sensor example]
