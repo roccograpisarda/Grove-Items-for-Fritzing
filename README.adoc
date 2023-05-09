@@ -25,4 +25,4 @@ Thank you for using the Grove items for Fritzing part!
 
 image::GROVE- Led socket.png[align="center",Led Socket example]
 
-image::GROVE- GROVE-LCD Display 16x2.png[align="center",LCD Display 16x2 example]
+image::GROVE-LCD Display 16x2.png[align="center",LCD Display 16x2 example]
