@@ -1,0 +1,18 @@
+:imagesdir: imgs
+
+= Grove-Led Socket for Fritzing
+
+
+This repository contains the Fritzing part for the Grove LED Socket, which is an electronic module that can be used to connect LED lights to a Grove compatible interface. The part has been designed to enable users to quickly and easily add the Grove LED Socket to their electronic circuit designs in Fritzing.
+
+To use this part, simply download the Grove LED Socket Fritzing part from this repository, and then import it into your Fritzing parts library. You can then use the part to add the Grove LED Socket to your electronic circuit design in Fritzing.
+
+This part has been created to be as accurate and detailed as possible, based on the specifications of the Grove LED Socket. It includes pins, labels, and other important details that are necessary for creating electronic circuit designs that use this module.
+
+If you encounter any issues while using this part, please feel free to report them in the issues section of this repository. Additionally, if you have any suggestions for improvements or additions to the part, we would love to hear from you.
+
+Thank you for using the Grove LED Socket Fritzing part!
+
+== Screenshot
+
+image::GROVE- Led socket.png[align="center",Led Socket example]
