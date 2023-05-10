@@ -1,39 +1,39 @@
 :imagesdir: imgs
 
-= Grove- Items for Fritzing
+= Grove-Items for Fritzing
 
 
-This repository contains the Fritzing part for the Grove LED Socket and for the Grove LCD Display 16x2.
-The first one is an electronic module that can be used to connect LED lights to a Grove compatible interface. 
-The part has been designed to enable users to quickly and easily add the Grove LED Socket to their electronic circuit designs in Fritzing.
+This repository contains the Fritzing part for:
 
-The second one is an LCD Display 16x2 module that can be used to show some informations. 
-The part has been designed to enable users to quickly and easily add the Grove LCD Display 16x2 to their electronic circuit designs in Fritzing.
-I found this item https://johnny-five.io/examples/grove-lcd-rgb-temperature-display/[here] but i resized it. 
+- GROVE Light led Socket. 
+
+- GROVE LCD Display 16x2 (found https://johnny-five.io/examples/grove-lcd-rgb-temperature-display/[here] but i scaled it.)
+
+- GROVE Sound sensor.
+
+- GROVE Touch sensor.
+
+- GROVE Touch sensor v1.1.
 
 
-The third one is a Touch sensor module.
-The part has been designed to enable users to quickly and easily add the Grove Touch sensor to their electronic circuit designs in Fritzing.
+The parts have been designed to enable users to quickly and easily add the GROVE sensors to their electronic circuit designs in Fritzing.
 
+To use these parts, simply download the Fritzing part you need from this repository, and then import it into your Fritzing parts library.
 
-The fourth one is a Sound sensor module.
-The part has been designed to enable users to quickly and easily add the Grove Touch sensor to their electronic circuit designs in Fritzing.
-
-To use this part, simply download the Fritzing part you need from this repository, and then import it into your Fritzing parts library.
-You can then use the part to add the item to your electronic circuit design in Fritzing.
-
-Each item includes pins, labels, and other important details that are necessary for creating electronic circuit designs that use this module.
+Each item includes pins, labels, and other important details that are necessary for creating electronic circuit designs.
 
 If you encounter any issues while using this part, please feel free to report them in the issues section of this repository. Additionally, if you have any suggestions for improvements or additions to the part, we would love to hear from you.
 
 Thank you for using the Grove items for Fritzing part!
 
-== Screenshot
 
-image::GROVE- Led socket.png[align="center",Led Socket example]
 
-image::GROVE-LCD Display 16x2.png[align="center",LCD Display 16x2 example]
-
-image::GROVE- Touch sensor.png[align="center",Touch sensor example]
-
-image::GROVE- Sound sensor.png[align="center",Sound sensor sensor example]
+== Screenshots
+[cols="a,a,a,a,a", frame=none, grid=none]
+|===
+| image::GROVE-Light led socket.png[alt=Light led socket., title="Light led socket."]
+| image::GROVE-LCD Display 16x2.png[alt=LCD Display 16x2., title="LCD Display 16x2."]
+| image::GROVE-Sound sensor.png[alt=Sound sensor, title="Sound Sensor."]
+| image::GROVE-Touch sensor.png[alt=Touch sensor, title="Touch sensor."]
+| image::GROVE-Touch sensor v1_1.png[alt= Touch sensor v1.1, title="Touch sensor v1.1."]
+|===
