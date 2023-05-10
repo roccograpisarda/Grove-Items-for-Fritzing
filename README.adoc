@@ -15,10 +15,13 @@ I found this item https://johnny-five.io/examples/grove-lcd-rgb-temperature-disp
 The third one is a Touch sensor module.
 The part has been designed to enable users to quickly and easily add the Grove Touch sensor to their electronic circuit designs in Fritzing.
 
+
+The fourth one is a Sound sensor module.
+The part has been designed to enable users to quickly and easily add the Grove Touch sensor to their electronic circuit designs in Fritzing.
+
 To use this part, simply download the Fritzing part you need from this repository, and then import it into your Fritzing parts library.
 You can then use the part to add the item to your electronic circuit design in Fritzing.
 
-This part has been created to be as accurate and detailed as possibl.
 Each item includes pins, labels, and other important details that are necessary for creating electronic circuit designs that use this module.
 
 If you encounter any issues while using this part, please feel free to report them in the issues section of this repository. Additionally, if you have any suggestions for improvements or additions to the part, we would love to hear from you.
@@ -31,4 +34,6 @@ image::GROVE- Led socket.png[align="center",Led Socket example]
 
 image::GROVE-LCD Display 16x2.png[align="center",LCD Display 16x2 example]
 
-image::GROVE- Touch sensor.png[align="center",LCD Touch sensor example]
+image::GROVE- Touch sensor.png[align="center",Touch sensor example]
+
+image::GROVE- Sound sensor.png[align="center",Sound sensor sensor example]
